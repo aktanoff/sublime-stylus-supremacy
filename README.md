@@ -1,5 +1,8 @@
 # sublime-stylus-supremacy
 
+__Sublime text plugin to format stylus `.styl` files__
+
+
 Sublime Text plugin for [Stylus Supremacy](https://github.com/ThisIsManta/stylus-supremacy)
 
 **You need to have [Node.js](http://nodejs.org) installed.**  
