@@ -3,15 +3,11 @@
 __Sublime text plugin to format stylus `.styl` files,
 it uses [Stylus Supremacy](https://github.com/ThisIsManta/stylus-supremacy) which is node.js based__
 
-
-
-**You need to have [Node.js](http://nodejs.org) installed.**  
+### You need to have [Node.js](http://nodejs.org) installed.
 Make sure it's in your $PATH by running `node -v` in your command-line.
 
 > Note: On OS X it's expected that Node resides in the /usr/local/bin/ folder, which it does when installed with the default installer. If this is not the case, symlink your Node binary to this location:  
 `ln -s /full/path/to/your/node /usr/local/bin/node`
-
-
 
 ### Install from GitHub
 
@@ -26,8 +22,6 @@ Make sure it's in your $PATH by running `node -v` in your command-line.
 5) Select Package Control > Install Package
 
 6) Install it by selecting `sublime-stylus-supremacy`
-
-
 
 ## Usage 
 
@@ -44,8 +38,6 @@ Example:
 	{ "keys": ["ctrl+alt+f"], "command": "stylus_supremacy" }
 ]
 ```
-
-
 
 You also can use it with `Chain of Command` plugin if you need to bind multiple formatters to one shortcut:
 
