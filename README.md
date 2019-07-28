@@ -15,7 +15,7 @@ Make sure it's in your $PATH by running `node -v` in your command-line.
 
 2) Select Package Control > Add Repository
 
-3) Paste in https://github.com/aktanoff/sublime-stylus-supremacy
+3) Paste in ``https://github.com/aktanoff/sublime-stylus-supremacy``
 
 4) Again open the Command Palette *(Cmd+Shift+P)*
 
