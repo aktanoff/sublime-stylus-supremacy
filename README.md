@@ -10,9 +10,27 @@ Make sure it's in your $PATH by running `node -v` in your command-line.
 > Note: On OS X it's expected that Node resides in the /usr/local/bin/ folder, which it does when installed with the default installer. If this is not the case, symlink your Node binary to this location:  
 `ln -s /full/path/to/your/node /usr/local/bin/node`
 
+
+
+### Install from GitHub
+
+1) Open the Command Palette *(Cmd+Shift+P)*
+
+2) Select Package Control > Add Repository
+
+3) Paste in https://github.com/aktanoff/sublime-stylus-supremacy
+
+4) Again open the Command Palette *(Cmd+Shift+P)*
+
+5) Select Package Control > Install Package
+
+6) Install it by selecting `sublime-stylus-supremacy`
+
+
+
 ## Usage 
 
-Press ctrl + shift + p and choose `Stylus Supremacy: Format code` to format your file or selected stylus code.
+Press *(Cmd+Shift+P)* and choose `Stylus Supremacy: Format code` to format your file or selected stylus code.
 
 ### Keyboard shortcut
 
