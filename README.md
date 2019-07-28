@@ -2,7 +2,6 @@
 
 __Sublime text plugin to format stylus `.styl` files__
 
-
 Sublime Text plugin for [Stylus Supremacy](https://github.com/ThisIsManta/stylus-supremacy)
 
 **You need to have [Node.js](http://nodejs.org) installed.**  
@@ -50,8 +49,3 @@ You also can use it with `Chain of Command` plugin if you need to bind multiple 
 This plugin is based on the excellent [Autoprefixer plugin](https://github.com/sindresorhus/sublime-autoprefixer) by Sindre Sorhus.
 
 Also based on [Sublime Stylefmt plugin](https://github.com/dmnsgn/sublime-stylefmt) by Damien Seguin.
-
-
-## License
-
-MIT © [Addy Osmani](http://addyosmani.com)
