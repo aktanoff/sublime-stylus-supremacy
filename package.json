@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "get-stdin": "^7.0.0",
-    "stylus-supremacy": "^2.12.7"
+    "stylus-supremacy": "^2.14.0"
   }
 }

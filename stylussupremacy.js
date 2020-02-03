@@ -4,6 +4,8 @@ const stylusSupremacy = require("stylus-supremacy");
 
 (async () => {
 	const data = await getStdin();
+    process.stdout.write(process.argv[2]);
+    return
   const formattingOptions = JSON.parse(process.argv[2]);
 
 	try {
